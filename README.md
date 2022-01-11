@@ -24,8 +24,8 @@ Tools & Technology : React.js, JavaScript (ES6), React Bootstrap, React Router, 
 
 <p align="left">
 <a href="https://github.com/Samiul-Ahmed-96">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiul-Ahmed-96"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Samiul-Ahmed-96&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiul-Ahmed-96"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samiul-Ahmed-96&show_icons=true"/>
 </a>
 </p> 
 
