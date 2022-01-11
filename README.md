@@ -1,7 +1,7 @@
 ![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQHqJX_4kfbIFQ/profile-displaybackgroundimage-shrink_200_800/0/1637772043851?e=1647475200&v=beta&t=X0mvHycE-2Bu9DYoG2B-MB9kYZA6SVroD4bZo0lyDi8)
 
-### Hi there 👋, my name is Md. Samiul Ahmed
-#### MERN Stack Developer
+# Hi there 👋, my name is Md. Samiul Ahmed
+## MERN Stack Developer
 
 I am a full-stack Web Engineer with Html5, Css3, Javascript(ES6), React.Js, Node.Js and MongoDB as my
 task stack. I love to learn & explore new things & passionate about programming. I am willing to accept
