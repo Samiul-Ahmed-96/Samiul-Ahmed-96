@@ -28,7 +28,7 @@ Tools & Technology : React.js, JavaScript (ES6), React Bootstrap, React Router, 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samiul-Ahmed-96&show_icons=true"/>
 </a>
 </p> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Samiul-Ahmed-96)](https://github.com/ryo-ma/github-profile-trophy) 
+
  
 
 
