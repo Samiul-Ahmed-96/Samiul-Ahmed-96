@@ -1,7 +1,6 @@
-(https://media-exp1.licdn.com/dms/image/C5616AQHqJX_4kfbIFQ/profile-displaybackgroundimage-shrink_200_800/0/1637772043851?e=1647475200&v=beta&t=X0mvHycE-2Bu9DYoG2B-MB9kYZA6SVroD4bZo0lyDi8)
 ### Hi there 👋, my name is Md Samiul Ahmed
 #### MERN Stack Developer
-![MERN Stack Developer]
+![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQHqJX_4kfbIFQ/profile-displaybackgroundimage-shrink_200_800/0/1637772043851?e=1647475200&v=beta&t=X0mvHycE-2Bu9DYoG2B-MB9kYZA6SVroD4bZo0lyDi8)
 
 I am a full-stack Web Engineer with Html5, Css3, Javascript(ES6), React.Js, Node.Js and MongoDB as my
 task stack. I love to learn & explore new things & passionate about programming. I am willing to accept
@@ -9,6 +8,7 @@ challenges to improve myself better and develop my skills.
 
 Skills: React.js, JavaScript (ES6), React Bootstrap, React Router, HTML5, CSS3, Bootstrap5, Node JS, Express JS, Mongo DB, Tailwind CSS, Material UI, JSON Web Tokens(JWT), Git, Vs Code, Chrome Dev Tools, Heroku, Netlify, Firebase, Adobe Photoshop(Basic), Adobe Illustrator(Basic)
 
+- 🔭 I’m currently working on this page. 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: dev.samiulahmed@gmail.com 
 
