@@ -29,7 +29,10 @@ Tools & Technology : React.js, JavaScript (ES6), React Bootstrap, React Router, 
 </a>
 </p> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Samiul-Ahmed-96)](https://github.com/ryo-ma/github-profile-trophy) 
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Samiul-Ahmed-96)](https://github.com/ryo-ma/github-profile-trophy) 
+</p> 
+
 
 
 
