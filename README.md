@@ -7,7 +7,7 @@ I am a full-stack Web Engineer with Html5, Css3, Javascript(ES6), React.Js, Node
 task stack. I love to learn & explore new things & passionate about programming. I am willing to accept
 challenges to improve myself better and develop my skills.
 
-Skills: React.js, JavaScript (ES6), React Bootstrap, React Router, HTML5, CSS3, Bootstrap5, Node JS, Express JS, Mongo DB, Tailwind CSS, Material UI, JSON Web Tokens(JWT), Git, Vs Code, Chrome Dev Tools, Heroku, Netlify, Firebase, Adobe Photoshop(Basic), Adobe Illustrator(Basic)
+Tools & Technology : React.js, JavaScript (ES6), React Bootstrap, React Router, HTML5, CSS3, Bootstrap5, Node JS, Express JS, Mongo DB, Tailwind CSS, Material UI, JSON Web Tokens(JWT), Git, Vs Code, Chrome Dev Tools, Heroku, Netlify, Firebase, Adobe Photoshop(Basic), Adobe Illustrator(Basic)
 
 ![Profile views](https://gpvc.arturio.dev/Samiul-Ahmed-96)  
 
