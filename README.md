@@ -22,8 +22,6 @@ Skills: React.js, JavaScript (ES6), React Bootstrap, React Router, HTML5, CSS3, 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Samiul-Ahmed-96)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Samiul-Ahmed-96)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samiul-Ahmed-96&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samiul-Ahmed-96)](https://github.com/anuraghazra/github-readme-stats)
