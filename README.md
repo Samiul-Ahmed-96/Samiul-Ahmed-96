@@ -1,12 +1,15 @@
+![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQHqJX_4kfbIFQ/profile-displaybackgroundimage-shrink_200_800/0/1637772043851?e=1647475200&v=beta&t=X0mvHycE-2Bu9DYoG2B-MB9kYZA6SVroD4bZo0lyDi8)
+
 ### Hi there 👋, my name is Md Samiul Ahmed
 #### MERN Stack Developer
-![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQHqJX_4kfbIFQ/profile-displaybackgroundimage-shrink_200_800/0/1637772043851?e=1647475200&v=beta&t=X0mvHycE-2Bu9DYoG2B-MB9kYZA6SVroD4bZo0lyDi8)
 
 I am a full-stack Web Engineer with Html5, Css3, Javascript(ES6), React.Js, Node.Js and MongoDB as my
 task stack. I love to learn & explore new things & passionate about programming. I am willing to accept
 challenges to improve myself better and develop my skills.
 
 Skills: React.js, JavaScript (ES6), React Bootstrap, React Router, HTML5, CSS3, Bootstrap5, Node JS, Express JS, Mongo DB, Tailwind CSS, Material UI, JSON Web Tokens(JWT), Git, Vs Code, Chrome Dev Tools, Heroku, Netlify, Firebase, Adobe Photoshop(Basic), Adobe Illustrator(Basic)
+
+![Profile views](https://gpvc.arturio.dev/Samiul-Ahmed-96)  
 
 - 🔭 I’m currently working on Mern Stack
 - 💬 Ask me about Web Development 
@@ -22,8 +25,6 @@ Skills: React.js, JavaScript (ES6), React Bootstrap, React Router, HTML5, CSS3, 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Samiul-Ahmed-96)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samiul-Ahmed-96&show_icons=true)
-
-![Profile views](https://gpvc.arturio.dev/Samiul-Ahmed-96)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samiul-Ahmed-96)](https://github.com/anuraghazra/github-readme-stats)
 
