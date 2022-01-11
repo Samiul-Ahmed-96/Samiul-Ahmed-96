@@ -12,19 +12,24 @@ Skills: React.js, JavaScript (ES6), React Bootstrap, React Router, HTML5, CSS3, 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: dev.samiulahmed@gmail.com 
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Samiul-Ahmed-96) 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Samiul-Ahmed-96)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Samiul-Ahmed-96)  
+
+![Profile views](https://gpvc.arturio.dev/Samiul-Ahmed-96)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samiul-Ahmed-96)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samiul-Ahmed-96&show_icons=true)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Samiul-Ahmed-96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samiul-ahmed-anik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/samiulahmed.anik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/samiul-ahmed-anik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://samiulahmed.netlify.app/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Samiul-Ahmed-96)](https://github.com/ryo-ma/github-profile-trophy)
+  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samiul-Ahmed-96)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samiul-Ahmed-96&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Samiul-Ahmed-96)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Samiul-Ahmed-96)  
-
-![Profile views](https://gpvc.arturio.dev/Samiul-Ahmed-96)  
