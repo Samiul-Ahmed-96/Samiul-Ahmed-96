@@ -20,7 +20,14 @@ Tools & Technology : React.js, JavaScript (ES6), React Bootstrap, React Router, 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Samiul-Ahmed-96) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samiul-Ahmed-96)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samiul-Ahmed-96&show_icons=true) 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Samiul-Ahmed-96)](https://github.com/ryo-ma/github-profile-trophy) <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
