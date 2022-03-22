@@ -1,4 +1,4 @@
-![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQHqJX_4kfbIFQ/profile-displaybackgroundimage-shrink_200_800/0/1637772043851?e=1647475200&v=beta&t=X0mvHycE-2Bu9DYoG2B-MB9kYZA6SVroD4bZo0lyDi8)
+![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQHqJX_4kfbIFQ/profile-displaybackgroundimage-shrink_350_1400/0/1637772043851?e=1653523200&v=beta&t=zEMX5pscLJpPFVvleAWFAZ5SP_M7iU13L_saDJiWPys)
 
 # Hi there 👋, my name is Md. Samiul Ahmed
 ## Full Stack Web Developer
