@@ -1,13 +1,13 @@
 ![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQHqJX_4kfbIFQ/profile-displaybackgroundimage-shrink_350_1400/0/1637772043851?e=1653523200&v=beta&t=zEMX5pscLJpPFVvleAWFAZ5SP_M7iU13L_saDJiWPys)
 
 # Hi there 👋, my name is Md. Samiul Ahmed
-## Full Stack Web Developer
+## Software Engineer
 
-I am a full-stack Web Engineer with Html5, Css3, Javascript(ES6), React.Js, Node.Js and MongoDB as my
+I am a full-stack Software Engineer with Html5, Css3, Javascript(ES6), React.Js, Vue.Js, Vuetify,  Node.Js and MongoDB as my
 task stack. I love to learn & explore new things & passionate about programming. I am willing to accept
 challenges to improve myself better and develop my skills.
 
-Tools & Technology : React.js, JavaScript (ES6), React Bootstrap, React Router, HTML5, CSS3, Bootstrap5, Node JS, Express JS, Mongo DB, Tailwind CSS, Material UI, JSON Web Tokens(JWT), Git, Vs Code, Chrome Dev Tools, Heroku, Netlify, Firebase, Adobe Photoshop(Basic), Adobe Illustrator(Basic)
+Tools & Technology : React.js, JavaScript (ES6), React Bootstrap,  Vue.Js, Vuetify, React Router, HTML5, CSS3, Bootstrap5, Node JS, Express JS, Mongo DB, Tailwind CSS, Material UI, JSON Web Tokens(JWT), Git, Vs Code, Chrome Dev Tools, Heroku, Netlify, Firebase, Adobe Photoshop(Basic), Adobe Illustrator(Basic)
 
 ![Profile views](https://gpvc.arturio.dev/Samiul-Ahmed-96)  
 
