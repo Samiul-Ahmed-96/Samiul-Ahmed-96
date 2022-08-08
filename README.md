@@ -1,4 +1,3 @@
-![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQHqJX_4kfbIFQ/profile-displaybackgroundimage-shrink_350_1400/0/1637772043851?e=1653523200&v=beta&t=zEMX5pscLJpPFVvleAWFAZ5SP_M7iU13L_saDJiWPys)
 
 # Hi there 👋, my name is Md. Samiul Ahmed
 ## Software Engineer
