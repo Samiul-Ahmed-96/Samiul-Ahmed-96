@@ -8,7 +8,7 @@ challenges to improve myself better and develop my skills.
 
 Tools & Technology : React.js, JavaScript (ES6), React Bootstrap,  Vue.Js, Vuetify, React Router, HTML5, CSS3, Bootstrap5, Node JS, Express JS, Mongo DB, Tailwind CSS, Material UI, JSON Web Tokens(JWT), Git, Vs Code, Chrome Dev Tools, Heroku, Netlify, Firebase, Adobe Photoshop(Basic), Adobe Illustrator(Basic)
 
-![Profile views](https://gpvc.arturio.dev/Samiul-Ahmed-96)  
+Portfolio : https://samiul-ahmed.netlify.app/
 
 - 🔭 I’m currently working on Mern Stack
 - 💬 Ask me about Web Development 
