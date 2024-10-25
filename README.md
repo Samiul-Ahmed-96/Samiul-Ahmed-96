@@ -54,18 +54,17 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samiul-Ahmed-96&theme=gruvbox" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samiul-Ahmed-96&theme=gruvbox" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samiul-Ahmed-96&theme=gruvbox" alt="Samiul's Profile Summary"/>
+</p>
+
+<p align="left">
 <a href="https://github.com/Samiul-Ahmed-96">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samiul-Ahmed-96&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Samiul's GitHub Stats"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Samiul-Ahmed-96&theme=gruvbox&hide_border=true" alt="Samiul's GitHub Streak"/>
 </a>
 </p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samiul-Ahmed-96&theme=gruvbox" alt="Samiul's Profile Summary"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samiul-Ahmed-96&theme=gruvbox" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samiul-Ahmed-96&theme=gruvbox" alt="Most Commit Language"/>
-</p>
-
 ---
 
 ### ☕ Connect with Me!
