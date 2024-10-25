@@ -54,9 +54,9 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samiul-Ahmed-96&theme=gruvbox" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samiul-Ahmed-96&theme=gruvbox" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samiul-Ahmed-96&theme=gruvbox" alt="Samiul's Profile Summary"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samiul-Ahmed-96&theme=gruvbox" alt="Samiul's Profile Summary"/>
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samiul-Ahmed-96&theme=gruvbox" alt="Top Languages"/>
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samiul-Ahmed-96&theme=gruvbox" alt="Most Commit Language"/> 
 </p>
 
 ---
