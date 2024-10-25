@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hi, I'm Md. Samiul Ahmed</h1>
-<h3 align="center">Software Engineer | Full-Stack MERN Developer</h3>
+<h1 align="left">👋 Hi, I'm Md. Samiul Ahmed</h1>
+<h3 align="left">Software Engineer | Full-Stack MERN Developer</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://samiul-ahmed.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
   <a href="mailto:dev.samiulahmed@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">I am a passionate MERN Stack Developer dedicated to creating seamless user experiences and scalable backend solutions. I continuously strive to broaden my skill set, stay updated with industry trends, and embrace challenges to deliver efficient, high-quality software.</p>
+<p align="left">I am a passionate MERN Stack Developer dedicated to creating seamless user experiences and scalable backend solutions. I continuously strive to broaden my skill set, stay updated with industry trends, and embrace challenges to deliver efficient, high-quality software.</p>
 
 ---
 
@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-9146FF?style=flat&logo=elementor&logoColor=white" />
 </p>
 
 #### **Backend**
@@ -51,14 +53,14 @@
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Samiul-Ahmed-96">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samiul-Ahmed-96&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Samiul's GitHub Stats"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Samiul-Ahmed-96&theme=gruvbox&hide_border=true" alt="Samiul's GitHub Streak"/>
 </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samiul-Ahmed-96&theme=gruvbox" alt="Samiul's Profile Summary"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samiul-Ahmed-96&theme=gruvbox" alt="Top Languages"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samiul-Ahmed-96&theme=gruvbox" alt="Most Commit Language"/>
@@ -68,7 +70,7 @@
 
 ### ☕ Connect with Me!
 
-<p align="center">
+<p align="left">
 <a href="https://www.facebook.com/samiulahmed.anik"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/s_a_a_n_i_k/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://twitter.com/SamiulAhmedAni2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -77,4 +79,4 @@
 
 ---
 
-<p align="center">Thanks for stopping by! 😊 Let's build something amazing together!</p>
+<p align="left">Thanks for stopping by! 😊 Let's build something amazing together!</p>
