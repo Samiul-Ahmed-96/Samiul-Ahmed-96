@@ -1,40 +1,49 @@
+# Hi there 👋, I'm Md. Samiul Ahmed
 
-# Hi there 👋, my name is Md. Samiul Ahmed
-## Software Engineer
+## 🌟 Software Engineer | MERN Stack Developer | Passionate Coder
 
-I am a full-stack Software Engineer with Html5, Css3, Javascript(ES6), React.Js, Vue.Js, Vuetify,  Node.Js and MongoDB as my
-task stack. I love to learn & explore new things & passionate about programming. I am willing to accept
-challenges to improve myself better and develop my skills.
+I'm a full-stack software engineer with a strong focus on **MERN Stack** (MongoDB, Express.js, React.js, Node.js) alongside other technologies. I’m passionate about programming, eager to learn new things, and love taking on challenges that help me grow and expand my skill set.
 
-Tools & Technology : React.js, JavaScript (ES6), React Bootstrap,  Vue.Js, Vuetify, React Router, HTML5, CSS3, Bootstrap5, Node JS, Express JS, Mongo DB, Tailwind CSS, Material UI, JSON Web Tokens(JWT), Git, Vs Code, Chrome Dev Tools, Heroku, Netlify, Firebase, Adobe Photoshop(Basic), Adobe Illustrator(Basic)
+### 💡 Skills & Technologies
 
-Portfolio : https://samiul-ahmed.netlify.app/
+- **Frontend**: HTML5, CSS3, JavaScript (ES6), React.js, Vue.js, Vuetify, React Router, Bootstrap5, Tailwind CSS, Material UI
+- **Backend**: Node.js, Express.js, MongoDB
+- **Tools**: Git, VS Code, Chrome Dev Tools, Firebase, Heroku, Netlify
+- **Design**: Adobe Photoshop (Basic), Adobe Illustrator (Basic)
 
-- 🔭 I’m currently working on Mern Stack
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: dev.samiulahmed@gmail.com 
+📂 **Portfolio**: [samiul-ahmed.netlify.app](https://samiul-ahmed.netlify.app/)
+
+### 🔭 What I’m currently working on
+- Building scalable web applications with the MERN stack
+- Improving my backend and database skills with MongoDB
+- Enhancing my front-end design knowledge with Tailwind and Material UI
+
+### 💬 Ask me about
+- **Web Development** – I’m always open to discussing and helping out with full-stack development.
+
+### 📫 How to reach me
+- **Email**: dev.samiulahmed@gmail.com
+
+---
 
 ## ☕ Connect with me!
-[<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://www.facebook.com/samiulahmed.anik)  [<img src='https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465' alt='instagram' height='40'>](https://www.instagram.com/s_a_a_n_i_k/)  [<img src='https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465' alt='twitter' height='40'>](https://twitter.com/SamiulAhmedAni2)  [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/samiul-ahmed-anik/)
 
+[<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white' alt='Facebook' />](https://www.facebook.com/samiulahmed.anik) 
+[<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' />](https://www.instagram.com/s_a_a_n_i_k/)
+[<img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white' alt='Twitter' />](https://twitter.com/SamiulAhmedAni2) 
+[<img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' />](https://www.linkedin.com/in/samiul-ahmed-anik/)
 
+---
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/Samiul-Ahmed-96">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiul-Ahmed-96"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samiul-Ahmed-96&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samiul-Ahmed-96&show_icons=true&theme=radical&hide=contribs,prs" alt="Samiul's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiul-Ahmed-96&layout=compact&langs_count=6&theme=radical" alt="Samiul's Top Languages" />
 </a>
-</p> 
+</p>
 
- 
+---
 
-
-
-
-  
-
- 
-
-
+Thanks for stopping by! 😊 Feel free to connect, collaborate, or just say hi! 👋
