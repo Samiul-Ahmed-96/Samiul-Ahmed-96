@@ -6,7 +6,11 @@
   <a href="mailto:dev.samiulahmed@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="left">I am a passionate MERN Stack Developer dedicated to creating seamless user experiences and scalable backend solutions. I continuously strive to broaden my skill set, stay updated with industry trends, and embrace challenges to deliver efficient, high-quality software.</p>
+<p align="left">I am a confident and motivated Full Stack Software Engineer with strong proficiency in JavaScript (ES6), TypeScript, React.js, Redux Toolkit, Node.js, Express.js, and MongoDB (with Mongoose). I specialize in building and deploying complex, production-ready web applications that integrate dynamic frontend interfaces with scalable backend systems.
+
+My expertise includes implementing real-time communication features such as audio/video calling and live messaging using WebRTC and Socket.IO. I also have extensive experience in WordPress and Elementor, enabling me to create, customize, and deploy CMS-based websites efficiently.
+
+Passionate about solving complex problems, I thrive on learning new technologies and embracing challenges as opportunities for growth. With a focus on scalability, performance, and user experience, I aim to deliver impactful solutions that make a difference.</p>
 
 ---
 
