@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi, I'm Md. Samiul Ahmed</h1>
-<h3 align="left">Software Engineer | Full-Stack MERN Developer</h3>
+<h3 align="left">Full Stack Software Engineer (MERN) | JavaScript & TypeScript | React.js (Redux Toolkit, Bootstrap 5, CSS3) | Express.js & Mongoose | DigitalOcean | WordPress Development</h3>
 
 <p align="left">
   <a href="https://samiul-ahmed.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
