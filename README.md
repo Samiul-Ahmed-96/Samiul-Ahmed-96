@@ -2,7 +2,6 @@
 <h3 align="left">Full Stack Software Engineer | JavaScript & TypeScript | React.js & Next.js | Node.js & Express.js | MongoDB & PostgreSQL | DigitalOcean & AWS</h3>
 
 <p align="left">
-  <a href="https://samiul-portfolio-v2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:dev.samiulahmed@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
