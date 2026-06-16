@@ -1,89 +1,101 @@
-<h1 align="left">👋 Hi, I'm Md. Samiul Ahmed</h1>
-<h3 align="left">Full Stack Software Engineer (MERN) | JavaScript & TypeScript | React.js (Redux Toolkit, Bootstrap 5, CSS3) | Express.js & Mongoose | DigitalOcean | WordPress Development</h3>
+<div align="center">
 
-<p align="left">
-  <a href="https://samiul-ahmed.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-  <a href="mailto:dev.samiulahmed@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+# Hi, I'm Md. Samiul Ahmed
 
-<p align="left">I am a confident and motivated Full Stack Software Engineer with strong proficiency in JavaScript (ES6), TypeScript, React.js, Redux Toolkit, Node.js, Express.js, and MongoDB (with Mongoose). I specialize in building and deploying complex, production-ready web applications that integrate dynamic frontend interfaces with scalable backend systems.
+### Full Stack Software Engineer
 
-My expertise includes implementing real-time communication features such as audio/video calling and live messaging using WebRTC and Socket.IO. I also have extensive experience in WordPress and Elementor, enabling me to create, customize, and deploy CMS-based websites efficiently.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samiul-portfolio-v2.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiulahmed96)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samiul-Ahmed-96)
 
-Passionate about solving complex problems, I thrive on learning new technologies and embracing challenges as opportunities for growth. With a focus on scalability, performance, and user experience, I aim to deliver impactful solutions that make a difference.</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;5%2B+Years+of+Experience;50%2B+Projects+Completed;Building+Scalable+Web+Applications" alt="Typing SVG" />
 
----
-
-### 🛠️ Tech Stack
-
-#### **Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor-9146FF?style=flat&logo=elementor&logoColor=white" />
-</p>
-
-#### **Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-800?style=flat&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON_Web_Tokens-000000?style=flat&logo=json-web-tokens&logoColor=white" />
-</p>
-
-#### **Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 🚀 Current Projects
+## About Me
 
-- **MERN Stack**: Building scalable web applications with MongoDB, Express, React, and Node.js.
-- **Frontend Mastery**: Enhancing UI/UX with Tailwind CSS and exploring advanced React patterns.
-- **Backend Optimization**: Streamlining server logic with Express.js and focusing on security with JWT.
+Full Stack Software Engineer with **5+ years of experience** specializing in building scalable web applications, RESTful APIs, and modern user interfaces. Based in **Dhaka, Bangladesh**.
 
----
-
-### 📊 GitHub Stats & Activity
-
-<p align="left">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samiul-Ahmed-96&theme=gruvbox" alt="Samiul's Profile Summary"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samiul-Ahmed-96&theme=gruvbox" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samiul-Ahmed-96&theme=gruvbox" alt="Most Commit Language"/> 
-</p>
+- Currently working as **Software Engineer** at **UnidevGO**
+- Leading and maintaining the entire development lifecycle — from requirement analysis to production deployment and post-release support
+- Passionate about clean code, performance optimization, and delivering exceptional digital experiences
 
 ---
 
-### ☕ Connect with Me!
+## Tech Stack
 
-<p align="left">
-<a href="https://www.facebook.com/samiulahmed.anik"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/s_a_a_n_i_k/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/SamiulAhmedAni2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/samiul-ahmed-anik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-<p align="left">Thanks for stopping by! 😊 Let's build something amazing together!</p>
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samiul-Ahmed-96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiul-Ahmed-96&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samiul-Ahmed-96&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+---
+
+## Work Experience
+
+```
+🚀 Software Engineer @ UnidevGO (2023 - Present)
+   ├── Leading the entire development process from requirement analysis to production deployment
+   ├── Developed multiple full stack solutions for SaaS platforms
+   ├── Implemented CI/CD pipelines decreasing deployment time by 60%
+   ├── Introduced TypeScript, reducing runtime errors by 35%
+   └── Providing post-release support and continuous improvements
+```
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+| Portfolio | LinkedIn | GitHub |
+|:---------:|:--------:|:------:|
+| [samiul-portfolio-v2.vercel.app](https://samiul-portfolio-v2.vercel.app) | [samiulahmed96](https://linkedin.com/in/samiulahmed96) | [Samiul-Ahmed-96](https://github.com/Samiul-Ahmed-96) |
+
+</div>
+
+---
+
+<div align="center">
+
+### Open for Collaboration
+
+<img src="https://komarev.com/ghpvc/?username=Samiul-Ahmed-96&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+
+</div>
