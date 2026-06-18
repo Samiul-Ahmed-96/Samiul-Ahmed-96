@@ -75,11 +75,6 @@ Passionate about solving complex problems, I thrive on learning new technologies
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samiul-Ahmed-96&theme=gruvbox" alt="Samiul's Profile Summary"/>
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samiul-Ahmed-96&theme=gruvbox" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samiul-Ahmed-96&theme=gruvbox" alt="Most Commit Language"/>
-</p>
-
 ---
 
 ### ☕ Connect with Me!
