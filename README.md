@@ -5,7 +5,7 @@
   <a href="mailto:dev.samiulahmed@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="left">I am a confident and motivated Full Stack Software Engineer with 5+ years of experience and strong proficiency in JavaScript (ES6), TypeScript, React.js, Next.js, Redux Toolkit, Node.js, Express.js, and MongoDB. I specialize in building and deploying complex, production-ready web applications that integrate dynamic frontend interfaces with scalable backend systems.
+<p align="left">I am a confident and motivated Full Stack Software Engineer with 3+ years of experience and strong proficiency in JavaScript (ES6), TypeScript, React.js, Next.js, Redux Toolkit, Node.js, Express.js, and MongoDB. I specialize in building and deploying complex, production-ready web applications that integrate dynamic frontend interfaces with scalable backend systems.
 
 Currently working as a Software Engineer at UnidevGO, I lead and maintain the entire development lifecycle — from requirement analysis to production deployment and post-release support. My expertise includes implementing real-time communication features using WebRTC and Socket.IO, test automation with Playwright, and AI-powered solutions using Claude Agent SDK.
 
